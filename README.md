@@ -1,113 +1,34 @@
-# VS STEV - STEV'S LIMBO
-really inspired by bambi's purgatory
+# VS STARME
+very inspired by vs stev
 
-psych engine 1.0.4 takes way too long to compile but im using it anyways!
+## VS Starme Credits
 
-410 hostilev??? nightmare hostilev.
+Your Average FNF Pro (Made VS Stev)
 
-## Stev's Limbo Credits
-Purgateam / Bambi's Purgatory Team (Bambi's Purgatory (stev's limbo is very inspired by bambi's purgatory))
+https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect) (will be added and used)
 
-Your Average FNF Pro (Made VS Stev and all the stuff from VS Stev that's used in this mod)
+https://gamebanana.com/tuts/ 17332 (Wavy Background) (will be added and used)
 
-https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect)
+https://gamebanana.com/tools/ 17598 (Zoom Event) (will be added and used)
 
-https://gamebanana.com/tuts/ 17332 (Wavy Background)
+https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script) (will be added and used)
 
-https://gamebanana.com/tools/ 17598 (Zoom Event)
+https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event) (will be added and used)
 
-https://gamejolt.com/games/FNF-Psych-engine-script-file-pack/669041 (Floating Character Script)
+https://github.com / fizzyp2 /healthdrainlua (Health Drain Script) (will be added and used)
 
-https://www.youtube.com/watch?v=idI0_U2KpRM (Flash Camera Event)
+https://gamebanana.com/wips/ 71103 (Phone Note Assets) (UNUSED, THIS WAS USED IN STEV'S LIMBO WHICH WAS A TEMPLATE FOR THIS REPOSITORY!)
 
-https://github.com / fizzyp2 /healthdrainlua (Health Drain Script)
-
-https://gamebanana.com/wips/ 71103 (Phone Note Assets)
-
-VS Dave And Bambi Team - Bambi and Phone Note Assets (https://gamebanana.com/mods/ 43201)
-
-https://gamebanana.com/tools/ 9119 (Bambi Chromatic Scale)
-
-https://gamebanana.com/mods/ 380918 (Lyrics Event)
+VS Dave And Bambi Team (Phone Note Assets) (https://gamebanana.com/mods/ 43201) (UNUSED, THIS WAS USED IN STEV'S LIMBO WHICH WAS A TEMPLATE FOR THIS REPOSITORY!)
 
 https://gamebanana.com/tuts/ 18945 (Freeplay Categories)
 
 https://gamebanana.com/tuts/ 15047 (Psych Engine Watermark Tutorial)
 
-I forgot where Camera Switch came from.
-
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
-## Bambi has something to say!
-I'm Gonna Break My Phone. Holy Shit.
-
-## Songs (For The Demo)
-Any song made by me (Vaesea) can be used in other mods.
-- [x] Lava (V3) (Angry Stev) (Week 1) (Made by Vaesea)
-- [x] Angry (Angry Stev, Cheating Stev) (Week 1) (inspired by shattered) (Made by Vaesea)
-- [x] Malicious (Cheating Stev) (Week 1) (Made by Vaesea)
-- [x] Destroyed Sword (Godly Stev) (Week 1) (inspired by reality breaking) (Made by Vaesea)
-- [x] Error (Nightmare Hostilev) (Week 2) (inspired by rebound) (Made by Vaesea)
-- [x] Scare (Nightmare Hostilev) (Week 2) (Made by Vaesea)
-- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2) (inspired by upheaval) (Made by Vaesea)
-- [x] Farm Of Corn (V2) (Bambi) (Week 3) (Made by Vaesea)
-- [x] Corn And Diamonds (Bambi + Stev) (Week 3) (Made by Vaesea)
-- [x] Tope (V2) (Bambi) (Week 3) (Made by Vaesea)
-- [x] Purple (Purplev) (Week 4) (Made by Vaesea)
-- [x] Frozen (Blev) (Week 5) (Made by Vaesea)
-- [ ] Cold Blood (Blood Blev) (Week 6)
-- [ ] Paradise (Heavev) (Extra)
-- [ ] Void (True Hostilev) (Secret)
-
-## Songs (For The Full Version)
-- [x] Lava (V3) (Angry Stev) (Week 1) (Made by Vaesea)
-- [x] Angry (Angry Stev, Cheating Stev) (Week 1) (Made by Vaesea)
-- [x] Malicious (Cheating Stev) (Week 1) (Made by Vaesea)
-- [x] Destroyed Sword (Godly Stev) (Week 1) (Made by Vaesea)
-- [x] Error (Nightmare Hostilev) (Week 2) (Made by Vaesea)
-- [x] Scare (Nightmare Hostilev) (Week 2) (Made by Vaesea)
-- [ ] Nightmare (Nightmare Hostilev) (Week 2)
-- [x] Bad Dream (Nightmare Hostilev, Hellish Hostilev) (Week 2) (Made by Vaesea)
-- [x] Farm Of Corn (V2) (Bambi) (Week 3) (Made by Vaesea)
-- [x] Corn And Diamonds (Bambi + Stev) (Week 3) (Made by Vaesea)
-- [x] Tope (V2) (Bambi) (Week 3) (Made by Vaesea)
-- [x] Purple (Purplev) (Week 4) (Made by Vaesea)
-- [x] Golden (Yelev) (Week 4) (Made by Vaesea)
-- [ ] Violet Gold (Purplev and Yelev) (Week 4)
-- [x] Cheated (Cheated Hostilev) (Week 4) (Made by Vaesea)
-- [ ] Frozen (Blev) (Week 5) (being worked on) (Will be made by Vaesea)
-- [ ] Arrangement (V3) (Arratev) (Week 5) (Will be made by Vaesea)
-- [x] Heaven (V6) (Heavev) (Week 5) (Made by Vaesea)
-- [ ] Apocalypse (Blev + Arratev, Heavev, Heavev + Blev, Injustice Hostilev) (Week 5)
-- [ ] Cold Blood (Blood Blev) (Week 6)
-- [ ] Organization (V3) (Corrupted Arratev) (Week 6)
-- [ ] Angelic Demon (V2) (Demonic Heavev) (Week 6)
-- [ ] Corruption (Demonic Heavev, Blood Blev, Corrupted Arratev, True Hostilev)  (Week 6)
-- [ ] Manipulation (True Hostilev) (Week 7) (Will be made by Vaesea)
-- [ ] Laughing (Demonic Heavev, True Hostilev) (Week 7)
-- [ ] Carnage (Blood Blev, True Hostilev) (Week 7)
-- [ ] Destruction (Corrupted Arratev, True Hostilev) (Week 7)
-- [ ] Acrimony (Recrafted) (https://docs.google.com/document/d/1zZeTNOTnpO0jbj8j2XQLeGkH-DGGNJ_ANJkF7yYmL-k/edit?usp=sharing) (Week 8) (Will be made by Vaesea)
-- [x] Stevving (Stev) (Extra) (Made by Vaesea)
-- [ ] Bug (410 Hostilev) (Extra)
-- [x] Backspace (Bambi) (Extra) (Made by Vaesea)
-- [ ] Royalty (Purplev) (Extra)
-- [ ] Rich (Yelev) (Extra)
-- [x] Injustice (Injustice Hostilev) (Extra) (Made by Vaesea)
-- [ ] 2904802948 (V2) (Blev) (Extra) (There was a V2 of this song in VS Stev Red Heaven, but I'm not using that one since it takes too long to start) (Will be made by Vaesea)
-- [ ] Systematize (Arratev) (Extra) (I was making an Arratev song named Systematize a long time ago but that's scrapped)
-- [ ] Paradise (Heavev) (Extra)
-- [ ] Void (True Hostilev) (Secret)
-
-## Scrapped Songs and Song Ideas
-- [x] No Limit (Hellish Hostilev) (Scrapped because the vocals of it were terrible and it no longer makes sense to be in the mod) (Made by Vaesea and Convival (convival9 on youtube))
-- [x] Corny (Bambi) (Scrapped because I just didn't want to chart it) (Made by Vaesea)
-- [x] Gone (Nightmare Hostilev) (Scrapped because it was stupid. The song was pretty good but the lyrics part was weird) (Made by Vaesea)
-
-
 ## Extra Info
-You can help with this if you want, I'll upload stuff such as effects for characters and voices for characters soon but if you want those now just ask me in issues or on Discord.
-My discord account is vaesea.
+You can help with this if you want, I'll upload the "media" folder from the original VS Starme which contains the Starme chromatic, dwp and the vocals you put in Slicex
 
 ***
 
