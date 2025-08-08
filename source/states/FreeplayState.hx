@@ -198,7 +198,7 @@ class FreeplayState extends MusicBeatState
 				addWeek(['star', 'defendant', 'prime', 'court'], 1, 0xFFFFFF, ['evil-starme', 'evil-starme', 'evil-starme', 'evil-starme']);
 			case 'maintwo':
 				addWeek(['party', 'human', 'rights', 'british'], 0, 0xFFFFFF, ['starme', 'starme', 'evil-starme', 'evil-starme']);
-				addWeek(['london', 'oxted', 'street', 'opposition'], 1, 0xFFFFFF, ['godlike-starme', 'godlike-starme', 'godlike-starme', 'leader']); // what is opposition?
+				addWeek(['london', 'oxted', 'street', 'leader'], 1, 0xFFFFFF, ['godlike-starme', 'godlike-starme', 'godlike-starme', 'leader']); // what is opposition?
 			case 'mainthree':
 				addWeek(['dimension', 'ten', 'downing'], 0, 0xFFFFFF, ['emrats', 'emratsten', 'emratstrue']); // starme expunged
 				addWeek(['speech', 'antipathy'], 1, 0xFFFFFF, ['speech', 'antipathy']);
