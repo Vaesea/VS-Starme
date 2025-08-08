@@ -30,7 +30,7 @@ The reason why Gamebanana and GitHub links have spaces in them is because I'm sc
 ## Extra Info
 You can help with this if you want, check the media folder in art for all starme voices.
 
-I'll probably add every fanmade song I find that's good (if I get permission).
+I'll probably add most fanmade songs I find (if I get permission).
 
 ***
 
