@@ -201,7 +201,7 @@ class FreeplayState extends MusicBeatState
 				addWeek(['london', 'oxted', 'street', 'opposition'], 1, 0xFFFFFF, ['godlike-starme', 'godlike-starme', 'godlike-starme', 'opposition']); // no it's not a cover of dave and bambi opposition we aren't vs stev definitive edition
 			case 'mainthree':
 				addWeek(['dimension', 'ten', 'downing'], 0, 0xFFFFFF, ['emrats', 'emratsten', 'emratstrue']);
-				addWeek(['speech', 'antipathy'], 1, 0xFFFFFF, ['godlike-starme', 'antipathy']);
+				addWeek(['speech', 'antipathy'], 1, 0xFFFFFF, ['speech', 'antipathy']);
 			case 'extra':
 				addWeek(['actual', 'lawyer', 'prosecution', 'barrister'], 0, 0xFFFFFF, ['starme', 'starme', 'starme', 'starme']);
 				addWeek(['politics', 'politician', 'director', 'campaign'], 1, 0xFFFFFF, ['evil-starme', 'evil-starme', 'godlike-starme', 'godlike-starme']);
