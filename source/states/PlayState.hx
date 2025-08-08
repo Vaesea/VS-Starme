@@ -556,7 +556,7 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.data.hideHud;
 		uiGroup.add(scoreTxt);
 
-		watermark = new FlxText(scoreTxt.x + 30, scoreTxt.y + 0, "Stev's Limbo v" + MainMenuState.psychEngineVersion, 20);
+		watermark = new FlxText(scoreTxt.x + 30, scoreTxt.y + 0, "VS Starme v" + MainMenuState.psychEngineVersion, 20);
 		watermark.setFormat(Paths.font("comic.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		watermark.scrollFactor.set();
 		scoreTxt.borderSize = 1.25;
