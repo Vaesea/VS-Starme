@@ -1,0 +1,13 @@
+{
+	"events": [
+		[
+			111483.870967742,
+			[
+				["Play Animation", "hurt", "bf"],
+				["Change Character", "dad", "cheatingstev"],
+				["Flash Camera", "0.5", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

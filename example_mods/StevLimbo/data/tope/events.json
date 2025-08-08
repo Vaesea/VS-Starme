@@ -1,0 +1,245 @@
+{
+	"events": [
+		[
+			48375,
+			[
+				["lyrics", "set", "You (something), I knew it."]
+			]
+		],
+		[
+			49218.75,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			49875,
+			[
+				["lyrics", "set", "Moldy you troll, I knew it!"]
+			]
+		],
+		[
+			51937.5,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			52500,
+			[
+				["lyrics", "set", "STOP!"]
+			]
+		],
+		[
+			53156.25,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			53437.5,
+			[
+				["lyrics", "set", "Trying to help your dumbass friend-"]
+			]
+		],
+		[
+			55406.25,
+			[
+				["lyrics", "set", "What is wrong with you Moldy???"]
+			]
+		],
+		[
+			56906.25,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			62062.5,
+			[
+				["Play Animation", "phone", "dad"]
+			]
+		],
+		[
+			62812.5,
+			[
+				["Play Animation", "phone", "dad"]
+			]
+		],
+		[
+			64875,
+			[
+				["lyrics", "set", "STOP CALLING ME!"]
+			]
+		],
+		[
+			66000,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			74062.5,
+			[
+				["Play Animation", "phone", "dad"]
+			]
+		],
+		[
+			74812.5,
+			[
+				["Play Animation", "phone", "dad"]
+			]
+		],
+		[
+			76875,
+			[
+				["lyrics", "set", "MOLDY!"]
+			]
+		],
+		[
+			78000,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			84562.5,
+			[
+				["lyrics", "set", "(Something) STOP!!!!!!"]
+			]
+		],
+		[
+			85781.25,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			86625,
+			[
+				["lyrics", "set", "what the fuck is he saying here???"]
+			]
+		],
+		[
+			90281.25,
+			[
+				["lyrics", "set", "Stop!"]
+			]
+		],
+		[
+			90843.75,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			119250,
+			[
+				["Play Animation", "look", "dad"]
+			]
+		],
+		[
+			120000,
+			[
+				["Change Character", "dad", "angrybambi"]
+			]
+		],
+		[
+			121031.25,
+			[
+				["lyrics", "set", "You a fuckin liar Moldy!"]
+			]
+		],
+		[
+			122625,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			122906.25,
+			[
+				["lyrics", "set", "I fucking knew it!"]
+			]
+		],
+		[
+			123937.5,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			125437.5,
+			[
+				["lyrics", "set", "I fucking knew it..."]
+			]
+		],
+		[
+			127031.25,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			127687.5,
+			[
+				["lyrics", "set", "Moldy!"]
+			]
+		],
+		[
+			128625,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			129000,
+			[
+				["lyrics", "set", "Oh my god..."]
+			]
+		],
+		[
+			130687.5,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			156187.5,
+			[
+				["lyrics", "set", "Fucking Moldy..."]
+			]
+		],
+		[
+			157593.75,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			160125,
+			[
+				["lyrics", "set", "You a fuckin bastard Moldy..."]
+			]
+		],
+		[
+			162843.75,
+			[
+				["lyrics", "set", ""]
+			]
+		],
+		[
+			163968.75,
+			[
+				["lyrics", "set", "Oh my god you bastard Moldy!"]
+			]
+		],
+		[
+			166406.25,
+			[
+				["lyrics", "set", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

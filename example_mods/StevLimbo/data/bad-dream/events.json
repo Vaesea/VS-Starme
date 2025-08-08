@@ -1,0 +1,53 @@
+{
+	"events": [
+		[
+			73411.7647058823,
+			[
+				["Change Character", "dad", "hellishhostilev"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			95999.9999999999,
+			[
+				["Change Character", "dad", "410hostilev"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			118588.235294117,
+			[
+				["Change Character", "dad", "hellishhostilev"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			163764.705882353,
+			[
+				["Change Character", "dad", "410hostilev"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			186352.94117647,
+			[
+				["Change Character", "dad", "hellishhostilev"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			208941.176470588,
+			[
+				["Change Character", "dad", "410hostilev"],
+				["Flash Camera", "1", ""]
+			]
+		],
+		[
+			254117.647058823,
+			[
+				["Camera Switch", "2.8", "off"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

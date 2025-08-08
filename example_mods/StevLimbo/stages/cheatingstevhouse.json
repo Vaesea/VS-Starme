@@ -1,0 +1,72 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/backgrounds/urghh": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "stev",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		802,
+		104
+	],
+	"stageUI": "",
+	"girlfriend": [
+		312,
+		132
+	],
+	"defaultZoom": 0.8,
+	"objects": [
+		{
+			"x": -508,
+			"y": -95,
+			"scale": [
+				1.3,
+				1.3
+			],
+			"image": "backgrounds/evilstev",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "house",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		64,
+		95
+	],
+	"directory": "",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

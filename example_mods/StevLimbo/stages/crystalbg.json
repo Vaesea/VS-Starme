@@ -1,0 +1,95 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/backgrounds/void/410hostilev/platform": 3,
+		"images/backgrounds/void/410hostilev/bg": 3
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "410hostilev",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		843,
+		117
+	],
+	"stageUI": "",
+	"girlfriend": [
+		933,
+		146
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -640,
+			"y": -585,
+			"scale": [
+				1.7,
+				1.7
+			],
+			"image": "backgrounds/void/410hostilev/bg",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "void",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				0.2,
+				0.2
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 818,
+			"y": 741,
+			"scale": [
+				1.2,
+				1.2
+			],
+			"image": "backgrounds/void/410hostilev/platform",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "platform",
+			"antialiasing": false,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		-745,
+		-15
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

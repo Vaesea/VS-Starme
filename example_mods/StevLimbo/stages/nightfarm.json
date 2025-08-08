@@ -1,0 +1,273 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"gf": "gf",
+		"dad": "bambi"
+	},
+	"preload": {
+		"images/backgrounds/farm/gm_flatgrass": 3,
+		"images/backgrounds/farm/cornbag": 3,
+		"images/backgrounds/farm/sign": 3,
+		"images/backgrounds/farm/cornFence": 3,
+		"images/backgrounds/sky_sunset": 3,
+		"images/backgrounds/farm/grasslands": 3,
+		"images/backgrounds/farm/orangeyhills": 3,
+		"images/backgrounds/farm/funfarmhouse": 3
+	},
+	"girlfriend": [
+		624,
+		100
+	],
+	"stageUI": "",
+	"boyfriend": [
+		1109,
+		84
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.8,
+	"objects": [
+		{
+			"x": -480,
+			"y": -390,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/sky_night",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.4,
+				0.4
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 441,
+			"y": 56,
+			"scale": [
+				0.4,
+				0.4
+			],
+			"image": "backgrounds/farm/gm_flatgrass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "flatgrass",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.6,
+				0.6
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 0,
+			"y": 130,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/orangeyhills",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "orangehills",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 285,
+			"y": 79,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/funfarmhouse",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "farmhouse",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.8,
+				0.8
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -320,
+			"y": 470,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/grasslands",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "grasslands",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -105,
+			"y": 170,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/cornFence",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fenceone",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1275,
+			"y": 168,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/cornFence",
+			"flipX": true,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fencetwo",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 1471,
+			"y": 536,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/cornbag",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "cornbag",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 297,
+			"y": 328,
+			"scale": [
+				1,
+				1
+			],
+			"image": "backgrounds/farm/sign",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sign",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -579,
+			"y": -511,
+			"scale": [
+				3000,
+				1750
+			],
+			"filters": 3,
+			"color": "000000",
+			"angle": 0,
+			"name": "sprite1",
+			"scroll": [
+				0,
+				0
+			],
+			"alpha": 0.7,
+			"type": "square"
+		}
+	],
+	"camera_speed": 1,
+	"directory": "week1",
+	"opponent": [
+		517,
+		61
+	],
+	"camera_opponent": [
+		0,
+		0
+	],
+	"hide_girlfriend": false
+}

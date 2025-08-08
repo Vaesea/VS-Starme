@@ -1,0 +1,45 @@
+{
+	"storyName": "corn is everywhere",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "nightmare",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"farm of corn",
+			"bambi",
+			[
+				0,
+				235,
+				60
+			]
+		],
+		[
+			"corn and diamonds",
+			"stevandbambi",
+			[
+				160,
+				255,
+				160
+			]
+		],
+		[
+			"tope",
+			"bambi",
+			[
+				0,
+				235,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 3"
+}
