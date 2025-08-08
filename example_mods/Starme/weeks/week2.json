@@ -1,0 +1,59 @@
+{
+	"storyName": "uh oh",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"star",
+			"evil-starme",
+			[
+				133,
+				213,
+				255
+			]
+		],
+		[
+			"defendant",
+			"evil-starme",
+			[
+				133,
+				213,
+				255
+			]
+		],
+		[
+			"prime",
+			"evil-starme",
+			[
+				133,
+				213,
+				255
+			]
+		],
+		[
+			"court",
+			"evil-starme",
+			[
+				133,
+				213,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "evil starme"
+}

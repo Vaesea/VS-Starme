@@ -1,0 +1,59 @@
+{
+	"storyName": "what the fuck",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"keir",
+			"starme",
+			[
+				255,
+				213,
+				173
+			]
+		],
+		[
+			"starmer",
+			"starme",
+			[
+				255,
+				213,
+				173
+			]
+		],
+		[
+			"key",
+			"starme",
+			[
+				255,
+				213,
+				173
+			]
+		],
+		[
+			"labour",
+			"starme",
+			[
+				255,
+				213,
+				173
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Starme"
+}
