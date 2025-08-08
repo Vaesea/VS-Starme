@@ -222,7 +222,7 @@ class Main extends Sprite
 		dateNow = dateNow.replace(" ", "_");
 		dateNow = dateNow.replace(":", "'");
 
-		path = "./crash/" + "StevLimbo_" + dateNow + ".txt";
+		path = "./crash/" + "Starme_" + dateNow + ".txt";
 
 		for (stackItem in callStack)
 		{
@@ -239,7 +239,7 @@ class Main extends Sprite
 		// remove if you're modding and want the crash log message to contain the link
 		// please remember to actually modify the link for the github page to report the issues to.
 		#if officialBuild
-		errMsg += "\nPlease report this error to the GitHub page: https://github.com/Vaesea/Stev-s-Limbo";
+		errMsg += "\nPlease report this error to the GitHub page: https://github.com/Vaesea/VS-Starme";
 		#end
 		errMsg += "\n\n> Crash Handler written by: sqirra-rng";
 
