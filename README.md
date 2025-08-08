@@ -1,5 +1,5 @@
 # VS STARME
-very inspired by vs stev
+very inspired by vs stev, basically this is like vs stev with more songs and now it's british politics
 
 ## VS Starme Credits
 
