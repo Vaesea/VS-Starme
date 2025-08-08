@@ -1,0 +1,54 @@
+{
+	"storyName": "OH My GOD it's actually decent now",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"party",
+			"starme",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"human",
+			"starme",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"rights",
+			"evil-starme",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"british",
+			"evil-starme",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 3"
+}

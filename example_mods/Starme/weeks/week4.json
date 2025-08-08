@@ -1,0 +1,54 @@
+{
+	"storyName": "it's no longer decent",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"london",
+			"godlike-starme",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"oxted",
+			"godlike-starme",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"street",
+			"godlike-starme",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"leader",
+			"leader",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 4"
+}

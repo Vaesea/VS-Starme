@@ -1,0 +1,45 @@
+{
+	"storyName": "emrats aka starme expunged",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"dimension",
+			"emrats",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"ten",
+			"emratsten",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"downing",
+			"emratstrue",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 5"
+}
