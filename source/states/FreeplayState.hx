@@ -194,15 +194,13 @@ class FreeplayState extends MusicBeatState
 		else switch (category)
 		{
 			case 'main':
-				addWeek(['lava', 'angry', 'malicious', 'destroyed-sword'], 0, 0xFFFFFF, ['stevmad', 'normalandcheatingstev', 'cheatingstev', 'godlystev']);
-				addWeek(['error', 'scare', 'bad-dream'], 1, 0xFFFFFF, ['410hostilev', '410hostilev', 'hellishhostilev']);
-				addWeek(['farm-of-corn', 'corn-and-diamonds', 'tope'], 2, 0xFFFFFF, ['bambi', 'stevandbambi', 'bambi']);
+				addWeek(['keir', 'starmer', 'key', 'labour'], 0, 0xFFFFFF, ['starme', 'starme', 'starme', 'starme']);
+				addWeek(['star', 'defendant', 'prime', 'court'], 1, 0xFFFFFF, ['evil-starme', 'evil-starme', 'evil-starme', 'evil-starme']);
 			case 'maintwo':
-				addWeek(['purple'], 0, 0xFFFFFF, ['purplev']);
-				addWeek(['frozen'], 1, 0xFFFFFF, ['blev']);
-				addWeek(['cold-blood'], 2, 0xFFFFFF, ['bloodblev']);
+				addWeek(['party', 'human', 'rights', 'british'], 0, 0xFFFFFF, ['starme', 'starme', 'evil-starme', 'evil-starme']);
+				addWeek(['london', 'antipathy'], 1, 0xFFFFFF, ['godlike-starme', 'threestarmes']);
 			case 'extra':
-				addWeek(['paradise', 'void'], 0, 0xFFFFFF, ['heavev', 'truehostilev']);
+				addWeek(['actual', 'lawyer', 'prosecution', 'barrister'], 0, 0xFFFFFF, ['starme', 'starme', 'starme', 'starme']);
 			default:
 				trace('Category not found: $category - loading all songs');
 				loadAllSongs();
