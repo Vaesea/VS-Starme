@@ -28,7 +28,9 @@ https://gamebanana.com/tuts/ 15047 (Psych Engine Watermark Tutorial)
 The reason why Gamebanana and GitHub links have spaces in them is because I'm scared about accidentally giving a notification to someone
 
 ## Extra Info
-You can help with this if you want, check the media folder in art for all starme voices
+You can help with this if you want, check the media folder in art for all starme voices.
+
+I'll probably add every fanmade song I find that's good (if I get permission).
 
 ***
 
