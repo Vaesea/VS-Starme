@@ -7,7 +7,7 @@ Your Average FNF Pro (Made VS Stev)
 
 https://gamebanana.com/tools/ 13458 (Chromatic Abberation Effect) (will be added and used)
 
-https://gamebanana.com/tuts/ 17332 (Wavy Background) (will be added and used)
+https://gamebanana.com/tuts/ 17332 (Wavy Background)
 
 https://gamebanana.com/tools/ 17598 (Zoom Event) (will be added and used)
 
